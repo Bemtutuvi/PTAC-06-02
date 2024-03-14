@@ -4,7 +4,7 @@
 export default function(){
     return(
         <footer>
-            <p>$copy; Desenvolvido Arthur Redigolo</p>
+            <p>$copy; Desenvolvido por Arthur Redigolo</p>
 
         </footer>
     );

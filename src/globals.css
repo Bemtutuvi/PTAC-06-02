@@ -1,5 +1,28 @@
 header{
     height: 100px;
-    background-color: #eeeeef;
-    border-bottom: #eeeeef solid;
+    color: black;
+    background-color: #ff009d;
+    font-size: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #9a005f;
+    font-family: fantasy;
+}
+
+footer{
+    width: 100%;
+    color: black;
+    background-color: #ff009d;
+    margin-top: 40px;
+    height: 60px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #9a005f;
+    font-family: fantasy;
 }
