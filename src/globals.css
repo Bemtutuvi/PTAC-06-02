@@ -10,6 +10,7 @@ header{
     border-style: solid;
     border-color: #8b009aac;
     font-family: fantasy;
+    margin-bottom: 50px;
 }
 
 footer{
@@ -25,4 +26,11 @@ footer{
     border-style: solid;
     border-color: #8b009aac;
     font-family: fantasy;
+}
+
+button{
+    background-color: green;
+    color: white;
+    margin-top: 20px;
+    padding: 10px;
 }
