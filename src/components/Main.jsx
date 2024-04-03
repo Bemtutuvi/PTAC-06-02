@@ -51,8 +51,12 @@ export default function Main(){
                 <br></br>
                 <button type="submit">Enviar</button>
 
-
             </form>
+            {listaContatos.map((contato,index)=>
+                <div key={index}>
+                    <p>{contato.nomeSalvo}</p>
+                    <p>{contato.telefoneSalvo}</p>
+                </div>)}
         </main>
 
     );
